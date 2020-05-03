@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Emoji Application</string>
+    <string name="text_with_emojies">🌞🚑😂Hey🌞🚑😂World🌞🚑😂</string>
+</resources>
